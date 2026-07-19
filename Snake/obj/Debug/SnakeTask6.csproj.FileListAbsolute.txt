@@ -1,0 +1,9 @@
+C:\Users\ryanl\Dropbox\EG1738\Lab Solutions\Lab8-SnakeTask6\Snake\bin\Debug\Snake.exe.config
+C:\Users\ryanl\Dropbox\EG1738\Lab Solutions\Lab8-SnakeTask6\Snake\obj\Debug\Snake.exe
+C:\Users\ryanl\Dropbox\EG1738\Lab Solutions\Lab8-SnakeTask6\Snake\obj\Debug\Snake.pdb
+C:\Users\ryanl\Dropbox\EG1738\Lab Solutions\Lab8-SnakeTask6\Snake\bin\Debug\Snake.exe
+C:\Users\ryanl\Dropbox\EG1738\Lab Solutions\Lab8-SnakeTask6\Snake\bin\Debug\Snake.pdb
+C:\Users\ryanl\Dropbox\EG1738\Lab Solutions\Lab8-SnakeTask6\Snake\obj\Debug\SnakeTask6.csprojResolveAssemblyReference.cache
+C:\Users\ryanl\Dropbox\EG1738\Lab Solutions\Lab8-SnakeTask6\Snake\obj\Debug\SnakeTask4.Form1.resources
+C:\Users\ryanl\Dropbox\EG1738\Lab Solutions\Lab8-SnakeTask6\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\ryanl\Dropbox\EG1738\Lab Solutions\Lab8-SnakeTask6\Snake\obj\Debug\SnakeTask6.csproj.GenerateResource.Cache
